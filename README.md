@@ -88,7 +88,7 @@
     </tbody>
 </table>
 
-<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=azmulstc&show_icons=true"/>
+<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=Nazmulstc&show_icons=true"/>
 
 ## Connect with me !
 
