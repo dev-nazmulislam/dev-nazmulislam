@@ -7,5 +7,6 @@
 <img src="assets/images/javaScript.png" width="324" height="324">
 <img src="assets/images/React.png" width="324" height="324">
 <img src="assets/images/Node-js.png" width="324" height="324">
+
 ![image description](assets/images/TypeScript.png)
 ![image description](assets/images/Mongo.png)
