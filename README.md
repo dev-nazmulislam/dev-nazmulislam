@@ -4,7 +4,7 @@
 
 ### I`m Md. Nazmul Islam a Full Stack Web Developer from Bangladesh. I spend most of time coding outstanding projects.
 
-<div style="background-color: #2F7266">
+<div style="color: #2F7266">
 <h1>My Web Development skills</h1></div>
 
 ![image description](assets/images/javaScript.png)
@@ -18,7 +18,7 @@
 ![image description](assets/images/Tailwind.png)
 ![image description](assets/images/Html.png)
 
-<div style="background-color: #2F7266">
+<div style="color: #2F7266">
 <h1>Others Skills</h1></div>
 
 ![image description](assets/images/Photoshop.png)
