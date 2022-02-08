@@ -31,11 +31,13 @@
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b><u>HTML & CSS</u></b></td>
-      <td><b><u>HTML & Bootstrap</u></b></td>
-      <td><b><u>JavaScript</u></b></td>
-      <td><b><u>React</u></b></td>
-      <td><b><u>Node-Js</u></b></td>
+      <td><b>HTML & CSS</b></td>
+      <td><b>HTML & Bootstrap</b></td>
+      <td><b>HTML & Tailwind</b></td>
+      <td><b>JavaScript</b></td>
+      <td><b>React</b></td>
+      <td><b>Node-Js</b></td>
+      <td><b>TypeScript</b></td>
     </tr>
   </thead>
   <tbody>
@@ -45,6 +47,8 @@
       <td><a href="#" target="_blank">Project -01</a></td>
       <td><a href="#" target="_blank">Project -01</a></td>
       <td><a href="#" target="_blank">Project -01</a></td>
+      <td><a href="#" target="_blank">Project -01</a></td>
+      <td><a href="#" target="_blank">Project -01</a></td>
     </tr>
     <tr>
       <td><a href="#" target="_blank">Project -02</a></td>
@@ -52,6 +56,8 @@
       <td><a href="#" target="_blank">Project -02</a></td>
       <td><a href="#" target="_blank">Project -02</a></td>
       <td><a href="#" target="_blank">Project -02</a></td>
+      <td><a href="#" target="_blank">Project -02</a></td>
+      <td><a href="#" target="_blank">Project -02</a></td>
     </tr>
     <tr>
       <td><a href="#" target="_blank">Project -03</a></td>
@@ -59,6 +65,8 @@
       <td><a href="#" target="_blank">Project -03</a></td>
       <td><a href="#" target="_blank">Project -03</a></td>
       <td><a href="#" target="_blank">Project -03</a></td>
+      <td><a href="#" target="_blank">Project -03</a></td>
+      <td><a href="#" target="_blank">Project -03</a></td>
     </tr>
     <tr>
       <td><a href="#" target="_blank">Project -04</a></td>
@@ -66,7 +74,11 @@
       <td><a href="#" target="_blank">Project -04</a></td>
       <td><a href="#" target="_blank">Project -04</a></td>
       <td><a href="#" target="_blank">Project -04</a></td>
+      <td><a href="#" target="_blank">Project -04</a></td>
+      <td><a href="#" target="_blank">Project -04</a></td>
     <tr>
+      <td><a href="#" target="_blank">Project -05</a></td>
+      <td><a href="#" target="_blank">Project -05</a></td>
       <td><a href="#" target="_blank">Project -05</a></td>
       <td><a href="#" target="_blank">Project -05</a></td>
       <td><a href="#" target="_blank">Project -05</a></td>
