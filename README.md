@@ -2,7 +2,7 @@
 
 ### <ins>Wellcome to my Github Profile.</ins>
 
-### I`m Md. Nazmul Islam a Full Stack Web Developer from Bangladesh. I spend most of the time coding outstanding projects.
+### I am `Md. Nazmul Islam` a Full Stack Web Developer from Bangladesh. I spend most of the time coding outstanding projects.
 
 ## My Web Development skills
 
@@ -87,6 +87,8 @@
     </tr>
     </tbody>
 </table>
+
+<img width="550px" alt="Alamin Howlader Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dev-nazmulislam&show_icons=true"/>
 
 ## Connect with me !
 
