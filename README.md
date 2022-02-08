@@ -88,9 +88,12 @@
     </tbody>
 </table>
 
-<img width="550px" alt="Md. Nazmul Islam Github Stats"  src="https://github-readme-stats.vercel.app/api?username=dev-nazmulislam&show_icons=true"/>
 
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nazmulislam&card_width=550)](https://github.com/dev-nazmulislam/dev-nazmulislam)
+[![Md. Nazmul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nazmulislam)](https://github.com/dev-nazmulislam/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nazmulislam&card_width=550)](https://github.com/dev-nazmulislam)
 
 ## Connect with me !
 
