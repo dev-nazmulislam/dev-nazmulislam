@@ -90,8 +90,6 @@
 
 [![Md. Nazmul Islam's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-nazmulislam)](https://github.com/dev-nazmulislam/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nazmulislam)](https://github.com/dev-nazmulislam/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-nazmulislam&langs_count=8)](https://github.com/dev-nazmulislam/github-readme-stats)
 
 ## Connect with me !
