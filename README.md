@@ -2,7 +2,7 @@
 
 ### <ins>Wellcome to my Github Profile.</ins>
 
-### I am `Md. Nazmul Islam` a Full Stack Web Developer from Bangladesh. I spend most of the time coding outstanding projects.
+### I am `Md. Nazmul Islam`, A Full Stack Web Developer from Bangladesh. I spend most of the time coding outstanding projects.
 
 ## My Web Development skills
 
