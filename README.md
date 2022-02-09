@@ -26,6 +26,14 @@
 ![image description](assets/images/power.png)
 ![image description](assets/images/Acsess.png)
 
+## Tutorials
+
+- [JavaScript Tutorial beginner to advanced (Simple Note)](https://github.com/dev-nazmulislam/javascript-short-note)
+- [JavaScript Problem Solving](https://github.com/dev-nazmulislam/javaScript-problem-solving)
+- [JavaScript Function parameter handle or error control](https://github.com/dev-nazmulislam/function-parameter-handle)
+
+- [CSS-short-note](https://github.com/dev-nazmulislam/css-short-note)
+
 ## Complate Project’s
 
 <table>
