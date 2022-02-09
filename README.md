@@ -42,7 +42,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="#" target="_blank">Project -01</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/mission-2022" target="_blank">Mission-2022</a></td>
       <td><a href="#" target="_blank">Project -01</a></td>
       <td><a href="#" target="_blank">Project -01</a></td>
       <td><a href="#" target="_blank">Project -01</a></td>
@@ -51,7 +51,7 @@
       <td><a href="#" target="_blank">Project -01</a></td>
     </tr>
     <tr>
-      <td><a href="#" target="_blank">Project -02</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/protfolio-website" target="_blank">influencer-products</a></td>
       <td><a href="#" target="_blank">Project -02</a></td>
       <td><a href="#" target="_blank">Project -02</a></td>
       <td><a href="#" target="_blank">Project -02</a></td>
@@ -60,7 +60,7 @@
       <td><a href="#" target="_blank">Project -02</a></td>
     </tr>
     <tr>
-      <td><a href="#" target="_blank">Project -03</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/protfolio-website" target="_blank">protfolio-website</a></td>
       <td><a href="#" target="_blank">Project -03</a></td>
       <td><a href="#" target="_blank">Project -03</a></td>
       <td><a href="#" target="_blank">Project -03</a></td>
@@ -69,7 +69,7 @@
       <td><a href="#" target="_blank">Project -03</a></td>
     </tr>
     <tr>
-      <td><a href="#" target="_blank">Project -04</a></td>
+      <td><a href="#" target="_blank">E-School</a></td>
       <td><a href="#" target="_blank">Project -04</a></td>
       <td><a href="#" target="_blank">Project -04</a></td>
       <td><a href="#" target="_blank">Project -04</a></td>
@@ -77,7 +77,7 @@
       <td><a href="#" target="_blank">Project -04</a></td>
       <td><a href="#" target="_blank">Project -04</a></td>
     <tr>
-      <td><a href="#" target="_blank">Project -05</a></td>
+      <td><a href="#" target="_blank">Blogin</a></td>
       <td><a href="#" target="_blank">Project -05</a></td>
       <td><a href="#" target="_blank">Project -05</a></td>
       <td><a href="#" target="_blank">Project -05</a></td>
