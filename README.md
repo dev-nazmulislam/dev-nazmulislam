@@ -43,7 +43,7 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/dev-nazmulislam/mission-2022">Mission-2022</a></td>
-      <td><a href="https://github.com/dev-nazmulislam/soronika-convention">soronika-convention</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/e-commarce-website">e-commarce Website</a></td>
       <td><a href="#">Project -01</a></td>
       <td><a href="#">Project -01</a></td>
       <td><a href="#">Project -01</a></td>
@@ -51,8 +51,8 @@
       <td><a href="#">Project -01</a></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/dev-nazmulislam/influencer-products">influencer-products</a></td>
-      <td><a href="https://github.com/dev-nazmulislam/niki-react">niki-react</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/influencer-products">Influencer Products</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/soronika-convention">Shoronika Convention</a></td>
       <td><a href="#">Project -02</a></td>
       <td><a href="#">Project -02</a></td>
       <td><a href="#">Project -02</a></td>
@@ -61,7 +61,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/dev-nazmulislam/blogin">Blogin</a></td>
-      <td><a href="#">Car Ride</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/e-school">E-School</a></td>
       <td><a href="#">Project -03</a></td>
       <td><a href="#">Project -03</a></td>
       <td><a href="#">Project -03</a></td>
@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/dev-nazmulislam/leader-board">Leader Board</a></td>
-      <td><a href="#">Trafalgar</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/physionic">Physionic</a></td>
       <td><a href="#">Project -04</a></td>
       <td><a href="#">Project -04</a></td>
       <td><a href="#">Project -04</a></td>
@@ -78,7 +78,7 @@
       <td><a href="#">Project -04</a></td>
     <tr>
       <td><a href="https://github.com/dev-nazmulislam/support-session">Support session</a></td>
-      <td><a href="#">Project -05</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/trafalgar">Trafalgar</a></td>
       <td><a href="#">Project -05</a></td>
       <td><a href="#">Project -05</a></td>
       <td><a href="#">Project -05</a></td>
