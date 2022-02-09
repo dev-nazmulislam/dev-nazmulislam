@@ -70,7 +70,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/dev-nazmulislam/protfolio-website">protfolio-website</a></td>
-      <td><a href="#">Project -04</a></td>
+      <td><a href="#">Trafalgar</a></td>
       <td><a href="#">Project -04</a></td>
       <td><a href="#">Project -04</a></td>
       <td><a href="#">Project -04</a></td>
