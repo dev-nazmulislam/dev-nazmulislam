@@ -53,7 +53,7 @@
       <td><a href="https://github.com/dev-nazmulislam/mission-2022">Mission-2022</a></td>
       <td><a href="https://github.com/dev-nazmulislam/e-commarce-website">e-commarce Website</a></td>
       <td><a href="https://github.com/dev-nazmulislam/islami-bank">Islami Bank</a></td>
-      <td><a href="#">Project -01</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/income-expanses-calcualtor">Income & Expenses Calculator</a></td>
       <td><a href="#">Project -01</a></td>
       <td><a href="#">Project -01</a></td>
       <td><a href="#">Project -01</a></td>
