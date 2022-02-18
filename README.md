@@ -61,7 +61,7 @@
     <tr>
       <td><a href="https://github.com/dev-nazmulislam/influencer-products">Influencer Products</a></td>
       <td><a href="https://github.com/dev-nazmulislam/soronika-convention">Shoronika Convention</a></td>
-      <td><a href="#">Project -02</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/intarest-discount-calculator">Intarest & Discount Calculator</a></td>
       <td><a href="#">Project -02</a></td>
       <td><a href="#">Project -02</a></td>
       <td><a href="#">Project -02</a></td>
