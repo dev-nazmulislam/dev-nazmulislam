@@ -74,6 +74,46 @@
       </tr>
     </table>
 
+## Mathmatical Project’s
+
+<table align="center">
+      <tr>
+        <td><a href="#">Length Converter</a></td>
+        <td><a href="#">Discount Calculator</a></td>
+        <td><a href="#">Interest Calculator</a></td>
+        <td><a href="#">Simple Calculator</a></td>
+        <td><a href="#">BMI Calculator</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">TIP Calculator</a></td>
+        <td><a href="#">Age Calculator</a></td>
+        <td><a href="#">GPA Calculator</a></td>
+        <td><a href="#">Digital Clock</a></td>
+        <td><a href="#">Analog Clock</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Stopwatch</a></td>
+        <td><a href="#">Timmer</a></td>
+        <td><a href="#">Character Count</a></td>
+        <td><a href="#">Word Count</a></td>
+        <td><a href="#">Vowel Count</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Palindrome Checker</a></td>
+        <td><a href="#">Password Generator</a></td>
+        <td><a href="#">Random Number Generator</a></td>
+        <td><a href="#">Color Generator</a></td>
+        <td><a href="#">Quiz APP</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Weather APP</a></td>
+        <td><a href="#">Counter app</a></td>
+        <td><a href="#">Notes App</a></td>
+        <td><a href="#">Bookmark app</a></td>
+        <td><a href="#">Crud App</a></td>
+      </tr>
+    </table>
+
 ## Complate Project’s
 
 <table>
