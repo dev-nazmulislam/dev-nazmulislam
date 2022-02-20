@@ -34,6 +34,46 @@
 
 - [CSS-short-note](https://github.com/dev-nazmulislam/css-short-note)
 
+## Web Components Project’s
+
+<table align="center">
+      <tr>
+        <td><a href="#">Card Payment UI</a></td>
+        <td><a href="#">Custom Alert</a></td>
+        <td><a href="#">Custom Confirm Box</a></td>
+        <td><a href="#">Custom Range Slider</a></td>
+        <td><a href="#">Dark Light Mode</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Filterable Gallery</a></td>
+        <td><a href="#">Foalting Action Button</a></td>
+        <td><a href="#">Form Validation</a></td>
+        <td><a href="#">Image Gallery Thumbnail</a></td>
+        <td><a href="#">Image Slider</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Modal</a></td>
+        <td><a href="#">Modal with Progress Bookmark</a></td>
+        <td><a href="#">Movie App</a></td>
+        <td><a href="#">Multi-Step Form</a></td>
+        <td><a href="#">Music Player App</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Page Animation</a></td>
+        <td><a href="#">Smoth Scrolling</a></td>
+        <td><a href="#">Pricing Table</a></td>
+        <td><a href="#">Product Filter</a></td>
+        <td><a href="#">Product Slider</a></td>
+      </tr>
+      <tr>
+        <td><a href="#">Responsive Movile Menu</a></td>
+        <td><a href="#">Scroll To Top</a></td>
+        <td><a href="#">Vertical Tabs</a></td>
+        <td><a href="#">Type Writing Effect</a></td>
+        <td><a href="#">Click to copy</a></td>
+      </tr>
+    </table>
+
 ## Complate Project’s
 
 <table>
