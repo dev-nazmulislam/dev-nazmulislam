@@ -76,7 +76,7 @@
 
 ## Mathmatical Project’s
 
-<table style="width: 100%" align="center">
+<table align="center">
       <tr>
         <td><a href="#">Length Converter</a></td>
         <td><a href="#">Discount Calculator</a></td>
