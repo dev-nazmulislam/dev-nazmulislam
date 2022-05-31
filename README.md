@@ -49,18 +49,11 @@
 ## Recent Project’s
 
  <a href="https://github.com/dev-nazmulislam/book-ware-house-client">
- <table>
-<tr>
-<td><img src="assets/images/book.png" alt="" /></td>
-<td>
-<h3>Book Ware House is a simple stock management website</h3>
-<p>14-04-2022</p> 
-</td>
-</tr>
-</table>
- </a>
 
-- book ware house
+ <img src="assets/images/book.png" alt="" />
+ <h3>Book Ware House is a simple stock management website</h3>
+<p>14-04-2022</p> 
+  </a>
 
 <table>
   <thead align="center">
