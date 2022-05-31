@@ -52,7 +52,7 @@
 
  <img src="assets/images/book.png" alt="" />
  <h3>Book Ware House is a simple stock management website</h3>
-<p>14-04-2022</p> 
+ <p>14-04-2022</p> 
   </a>
 
 <table>
