@@ -50,8 +50,8 @@
 
 <table>
 <tr>
-<td width="50"><img src="assets/images/book.png" alt="" /></td>
-<td width="50">
+<td width="100"><img src="assets/images/book.png" alt="" /></td>
+<td width="100">
 <p>Bood Ware House is a simple stock management website</p>
 <small>14-04-2022</small> 
 </td>
