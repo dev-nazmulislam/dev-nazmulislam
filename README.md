@@ -1,9 +1,19 @@
-![image description](assets/images/github-cover.png)
 ### Hi there .......!
 
-### <ins>Wellcome to my Github Profile.</ins>
+<h1 align="center">I'm Md. Nazmul islam</h1>
+<h3 align="center" align-items="center">Designer and Front-end Web Developer from BD</h3>
 
-### I am `Md. Nazmul Islam`, A Full Stack Web Developer from Bangladesh. I spend most of the time coding outstanding projects.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nazmulislam" alt="dev-nazmulislam" /> </p>
+
+- 🌱 I’m currently learning **Node.Js**
+
+- 👯 I’m looking to collaborate on **ReactJS, JS, ExpressJS, TypeScript, Next.js, MongoDB, Projects**
+
+- 👨‍💻 All of my projects are available at [my portfolio]()
+
+- 💬 Ask me about **ReactJs, JavaScript, ES6, Express, NodeJs, MongoDB, Heroku or anything which relate to Frontend and backend**
+
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/developernazmul)**
 
 ## My Web Development skills
 
@@ -27,95 +37,17 @@
 ![image description](assets/images/power.png)
 ![image description](assets/images/Acsess.png)
 
-## Tutorials
+## Documantation
 
-- [JavaScript Tutorial beginner to advanced (Simple Note)](https://github.com/dev-nazmulislam/javascript-short-note)
+- [Express with MongoDb](https://github.com/dev-nazmulislam/express-mongodb-short-note)
+- [React Basic to Advanced](https://github.com/dev-nazmulislam/react-short-note)
+- [JavaScript Beginner to Advanced](https://github.com/dev-nazmulislam/javascript-short-note)
 - [JavaScript Problem Solving](https://github.com/dev-nazmulislam/javaScript-problem-solving)
-- [JavaScript Function parameter handle or error control](https://github.com/dev-nazmulislam/function-parameter-handle)
+- [JavaScript parameter handle or error control](https://github.com/dev-nazmulislam/function-parameter-handle)
 
 - [CSS-short-note](https://github.com/dev-nazmulislam/css-short-note)
 
-## Web Components Project’s
-
-<table align="center">
-      <tr>
-        <td><a href="#">Card Payment UI</a></td>
-        <td><a href="#">Custom Alert</a></td>
-        <td><a href="#">Custom Confirm Box</a></td>
-        <td><a href="#">Custom Range Slider</a></td>
-        <td><a href="#">Dark Light Mode</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Filterable Gallery</a></td>
-        <td><a href="#">Foalting Action Button</a></td>
-        <td><a href="#">Form Validation</a></td>
-        <td><a href="#">Image Gallery Thumbnail</a></td>
-        <td><a href="#">Image Slider</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Modal</a></td>
-        <td><a href="#">Modal with Progress Bookmark</a></td>
-        <td><a href="#">Movie App</a></td>
-        <td><a href="#">Multi-Step Form</a></td>
-        <td><a href="#">Music Player App</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Page Animation</a></td>
-        <td><a href="#">Smoth Scrolling</a></td>
-        <td><a href="#">Pricing Table</a></td>
-        <td><a href="#">Product Filter</a></td>
-        <td><a href="#">Product Slider</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Responsive Movile Menu</a></td>
-        <td><a href="#">Scroll To Top</a></td>
-        <td><a href="#">Vertical Tabs</a></td>
-        <td><a href="#">Type Writing Effect</a></td>
-        <td><a href="#">Click to copy</a></td>
-      </tr>
-    </table>
-
-## Mathmatical Project’s
-
-<table align="center">
-      <tr>
-        <td><a href="#">Length Converter</a></td>
-        <td><a href="#">Discount Calculator</a></td>
-        <td><a href="#">Interest Calculator</a></td>
-        <td><a href="#">Simple Calculator</a></td>
-        <td><a href="#">BMI Calculator</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">TIP Calculator</a></td>
-        <td><a href="#">Age Calculator</a></td>
-        <td><a href="#">GPA Calculator</a></td>
-        <td><a href="#">Digital Clock</a></td>
-        <td><a href="#">Analog Clock</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Stopwatch</a></td>
-        <td><a href="#">Timmer</a></td>
-        <td><a href="#">Character Count</a></td>
-        <td><a href="#">Word Count</a></td>
-        <td><a href="#">Vowel Count</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Palindrome Checker</a></td>
-        <td><a href="#">Password Generator</a></td>
-        <td><a href="#">Random Number Generator</a></td>
-        <td><a href="#">Color Generator</a></td>
-        <td><a href="#">Quiz APP</a></td>
-      </tr>
-      <tr>
-        <td><a href="#">Weather APP</a></td>
-        <td><a href="#">Counter app</a></td>
-        <td><a href="#">Notes App</a></td>
-        <td><a href="#">Bookmark app</a></td>
-        <td><a href="#">Crud App</a></td>
-      </tr>
-    </table>
-
-## Complate Project’s
+## Recent Project’s
 
 <table>
   <thead align="center">
@@ -144,7 +76,7 @@
       <td><a href="https://github.com/dev-nazmulislam/soronika-convention">Shoronika Convention</a></td>
       <td><a href="#">Project -02</a></td>
       <td><a href="https://github.com/dev-nazmulislam/intarest-discount-calculator">Intarest & Discount Calculator</a></td>
-      <td><a href="#">Project -02</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/book-ware-house-client">Book Ware House</a></td>
       <td><a href="#">Project -02</a></td>
       <td><a href="#">Project -02</a></td>
     </tr>
@@ -153,7 +85,7 @@
       <td><a href="https://github.com/dev-nazmulislam/e-school">E-School</a></td>
       <td><a href="#">Project -03</a></td>
       <td><a href="#">Project -03</a></td>
-      <td><a href="#">Project -03</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/elite-photographer">Elite Photography</a></td>
       <td><a href="#">Project -03</a></td>
       <td><a href="#">Project -03</a></td>
     </tr>
@@ -162,7 +94,7 @@
       <td><a href="https://github.com/dev-nazmulislam/physionic">Physionic</a></td>
       <td><a href="#">Project -04</a></td>
       <td><a href="#">Project -04</a></td>
-      <td><a href="#">Project -04</a></td>
+      <td><a href="https://github.com/dev-nazmulislam/product-analysis">Product review</a></td>
       <td><a href="#">Project -04</a></td>
       <td><a href="#">Project -04</a></td>
     <tr>
