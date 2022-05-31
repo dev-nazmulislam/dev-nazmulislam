@@ -1,9 +1,8 @@
 ### Hi there .......!
 
-<h1 align="center">I'm Md. Nazmul islam</h1>
-<h3 align="center" align-items="center">Designer and Front-end Web Developer from BD</h3>
+<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/developernazmul/" target="_blank">Md. Nazmul islam</a></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-nazmulislam" alt="dev-nazmulislam" /> </p>
+<h2 align="center" align-items="center">Designer and Front-end Web Developer from BD</h2>
 
 - 🌱 I’m currently learning **Node.Js**
 
