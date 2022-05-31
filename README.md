@@ -2,15 +2,15 @@
 
 <h2 align="center" align-items="center">Designer and Front-end Web Developer from BD</h2>
 
-- 🌱 I’m currently learning **Node.Js**
+- ### 🌱 I’m currently learning **Node.Js**
 
-- 👯 I’m looking to collaborate on **ReactJS, JavaScrpt, ExpressJS, TypeScript, Next.js, MongoDB, Projects**
+- ### 👯 I’m looking to collaborate on **ReactJS, JavaScrpt, ExpressJS, TypeScript, Next.js, MongoDB, Projects**
 
-- 👨‍💻 All of my projects are available at [my portfolio]()
+- ### 👨‍💻 All of my projects are available at [my portfolio]()
 
-- 💬 Ask me about **ReactJs, JavaScript, ES6, Express, NodeJs, MongoDB, Heroku or anything which relate to Frontend and backend**
+- ### 💬 Ask me about **ReactJs, JavaScript, ES6, Express, NodeJs, MongoDB, Heroku or anything which relate to Frontend and backend**
 
-- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/developernazmul)**
+- ### 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/developernazmul)**
 
 ## My Web Development skills
 
@@ -36,13 +36,13 @@
 
 ## Documantation
 
-- [Express with MongoDb](https://github.com/dev-nazmulislam/express-mongodb-short-note)
-- [React Basic to Advanced](https://github.com/dev-nazmulislam/react-short-note)
-- [JavaScript Beginner to Advanced](https://github.com/dev-nazmulislam/javascript-short-note)
-- [JavaScript Problem Solving](https://github.com/dev-nazmulislam/javaScript-problem-solving)
-- [JavaScript parameter handle or error control](https://github.com/dev-nazmulislam/function-parameter-handle)
+- ### [Express with MongoDb](https://github.com/dev-nazmulislam/express-mongodb-short-note)
+- ### [React Basic to Advanced](https://github.com/dev-nazmulislam/react-short-note)
+- ### [JavaScript Beginner to Advanced](https://github.com/dev-nazmulislam/javascript-short-note)
+- ### [JavaScript Problem Solving](https://github.com/dev-nazmulislam/javaScript-problem-solving)
+- ### [JavaScript parameter handle or error control](https://github.com/dev-nazmulislam/function-parameter-handle)
 
-- [CSS-short-note](https://github.com/dev-nazmulislam/css-short-note)
+- ### [CSS-short-note](https://github.com/dev-nazmulislam/css-short-note)
 
 ## Recent Project’s
 
