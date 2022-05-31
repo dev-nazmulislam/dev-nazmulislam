@@ -49,6 +49,18 @@
 ## Recent Project’s
 
 <table>
+<tr>
+<td><img src="assets/images/book.png" alt="" /></td>
+<td>
+<p>Bood Ware House is a simple stock management website</p>
+<small>14-04-2022</small> 
+</td>
+</tr>
+</table>
+
+- book ware house
+
+<table>
   <thead align="center">
     <tr border: none;>
       <td><b>HTML & CSS</b></td>
