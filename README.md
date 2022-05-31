@@ -48,12 +48,14 @@
 
 ## Recent Project’s
 
- <a href="https://github.com/dev-nazmulislam/book-ware-house-client">
+<a href="https://github.com/dev-nazmulislam/book-ware-house-client"></a>
+<img src="assets/images/book.png" alt="" />
 
- <img src="assets/images/book.png" alt="" />
  <h3>Book Ware House is a simple stock management website</h3>
- <p>14-04-2022</p> 
-  </a>
+ 
+- Build Width: **React, React Router, React-Bootstrap, Express, Firebase, React firebase hooks, React hooks form, React Icons, MongoDB, Heroku**
+
+ <p>14-04-2022</p>
 
 <table>
   <thead align="center">
