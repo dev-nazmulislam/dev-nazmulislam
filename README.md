@@ -52,8 +52,8 @@
 <tr>
 <td><img src="assets/images/book.png" alt="" /></td>
 <td>
-<p>Book Ware House is a simple stock management website</p>
-<small>14-04-2022</small> 
+<h3>Book Ware House is a simple stock management website</h3>
+<p>14-04-2022</p> 
 </td>
 </tr>
 </table>
