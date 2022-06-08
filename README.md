@@ -14,7 +14,7 @@
 
 - ### 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/developernazmul)**
 
-## My Web Development skills
+<!-- ## My Web Development skills
 
 ![image description](assets/images/javaScript.png)
 ![image description](assets/images/React.png)
@@ -34,7 +34,7 @@
 ![image description](assets/images/Exel.png)
 ![image description](assets/images/word.png)
 ![image description](assets/images/power.png)
-![image description](assets/images/Acsess.png)
+![image description](assets/images/Acsess.png) -->
 
 ## Documantation
 
