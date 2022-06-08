@@ -1,3 +1,5 @@
+![image description](assets/images/github_cover.png)
+
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/developernazmul/" target="_blank">Md. Nazmul islam</a></h1>
 
 <h2 align="center" align-items="center">Designer and Front-end Web Developer from BD</h2>
